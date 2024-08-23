@@ -1,3 +1,0 @@
-/home/tssh/Downloads/workspace/personal_git/VS-Project/demo01/build/CMakeFiles/rebuild_cache.dir
-/home/tssh/Downloads/workspace/personal_git/VS-Project/demo01/build/CMakeFiles/edit_cache.dir
-/home/tssh/Downloads/workspace/personal_git/VS-Project/demo01/build/CMakeFiles/Tutorial.dir
